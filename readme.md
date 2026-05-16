@@ -46,7 +46,7 @@ Link: <a href="An_Effective_Image_Copy-Move_Forgery_Detection_Using_Entropy_Info
 <li>glob, os, uuid libraries</li> 
 </ul>  
 
-<b>STEPS TO EXECUTE THE CODE  </b>
+<b>STEPS TO EXECUTE THE CODE  </b><br><br>
 A) Streamlit App
 1.	Open terminal
 2.	Navigate to project folder
