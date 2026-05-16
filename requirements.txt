@@ -9,3 +9,4 @@ scikit-image
 scikit-learn
 tqdm
 glob2
+imutils
